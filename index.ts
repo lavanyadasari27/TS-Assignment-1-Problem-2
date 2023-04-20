@@ -1,5 +1,5 @@
 //objects
-const obj1={a:1,b:"Hello"};
+const obj1= {a:1,b:"Hello"};
 const obj2={b:"Welcome",c:false};
 const obj3={c:true,d:[1,2,3]};
 //function to merge objects
